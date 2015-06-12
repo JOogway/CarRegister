@@ -7,7 +7,7 @@ import java.io.*;
 import java.io.UnsupportedEncodingException;
 
 /**
- * Created by Maksym Zieliński
+ * Created by Maksym Zieliński aka JOogway
  */
 public class Window extends JFrame implements ActionListener {
     public static int witch = 0;
